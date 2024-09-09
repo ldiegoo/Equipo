@@ -10,4 +10,4 @@ for i in animalitos:
         else:
                 print(i + " es un animalito aplastado")
                 print("holaaaa")
-                print("los pajaros vuelan")
+                print("los pajaros vuelan y las perras a mi cama")
