@@ -1,0 +1,1 @@
+print("el perro es negro y el gato blanco")
