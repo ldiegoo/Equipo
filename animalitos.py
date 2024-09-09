@@ -9,3 +9,5 @@ for i in animalitos:
                 print(i + " es un animalito") 
         else:
                 print(i + " es un animalito aplastado")
+                print("holaaaa")
+                print("los pajaros vuelan")
