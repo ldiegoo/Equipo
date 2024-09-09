@@ -1,4 +1,9 @@
 animalitos = ("pez", "perro", "tlacuache")
 
 for i in animalitos:
-    print(i + " es un animalito")
+    if (i != "tlacuache"):
+        print(i + " es un animalito")
+    else:
+        print(i + " es un animalito aplastado")
+    
+    
